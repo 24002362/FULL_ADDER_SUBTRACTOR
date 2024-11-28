@@ -59,7 +59,10 @@ Borrow = (A ⊕ B)'C + A'B
 ![Screenshot 2024-11-28 141427](https://github.com/user-attachments/assets/6dcd78cf-5cc5-46cb-aae9-fbeae8e7eeb7)
 
 ## Logic Symbol and Truthtable
-
+#### Full Adder:
+![Screenshot 2024-11-28 200627](https://github.com/user-attachments/assets/75afe26c-7485-4665-b9df-1092b3e61cc2)
+#### Full subtractor:
+![Screenshot 2024-11-28 205620](https://github.com/user-attachments/assets/f8635e07-0149-442a-8985-d06db4979f03)
 
 
 ## RTL output
