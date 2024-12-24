@@ -3,7 +3,6 @@
 ### DATE: 07.11.2024
 # EXPERIMENT 4: IMPLEMENTATION OF FULL ADDER AND SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 ## AIM
 
